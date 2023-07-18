@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib plotly scikit-learn xgboost
 
 ### How to Use
 
-* Clone this repository to your local machine or download the notebook directly from Kaggle.
+* Clone this repository to your local machine.
 * Open the notebook using Jupyter Notebook or JupyterLab.
 * Execute each cell sequentially to run the code and view the results.
 * Modify the notebook or dataset as per your requirements to analyze different aspects of customer lifetime value prediction.
