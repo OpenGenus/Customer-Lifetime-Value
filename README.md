@@ -1,6 +1,8 @@
 # Customer Lifetime Value Prediction
 ![front_page](https://github.com/deshpanda/Customer-Lifetime-Value/assets/96617520/6e128f19-6c90-4a43-8e8d-08d3783379ff)
 
+[Documentation and step-by-step development](https://iq.opengenus.org/predicting-customer-lifetime-value-in-retail/) by OpenGenus Intern, Samyak Deshpande
+
 ### Introduction
 
 This repository contains a Jupyter Notebook titled "Customer Lifetime Value Prediction" created at OpenGenus IQ. The notebook explores the prediction of Customer Lifetime Value (LTV) within the context of the retail industry. The primary objective is to provide insights into customer behavior, identify high-value customers, and devise actionable strategies to optimize revenue and profitability.
